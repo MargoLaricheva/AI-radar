@@ -1,0 +1,1 @@
+ALTER TABLE "opportunities" ADD COLUMN "last_msg_id" bigint;
